@@ -1,0 +1,6 @@
+framework module Pods_MAGyms_Coach {
+  umbrella header "Pods-MAGyms Coach-umbrella.h"
+
+  export *
+  module * { export * }
+}
