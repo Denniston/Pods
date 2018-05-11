@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2324F4B4D945966084D1A24BFD9145D0"
+               BlueprintIdentifier = "D96D8124EC9A615D9C979590A41CC965"
                BuildableName = "Pods_MAGyms_Coach.framework"
                BlueprintName = "Pods-MAGyms Coach"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -26,7 +26,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -37,7 +36,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2324F4B4D945966084D1A24BFD9145D0"
+            BlueprintIdentifier = "D96D8124EC9A615D9C979590A41CC965"
             BuildableName = "Pods_MAGyms_Coach.framework"
             BlueprintName = "Pods-MAGyms Coach"
             ReferencedContainer = "container:Pods.xcodeproj">
